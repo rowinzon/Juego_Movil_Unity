@@ -8,3 +8,18 @@
 .vs/
 *.csproj
 *.sln
+
+# Archivos generados por Unity
+Juego_Movil_Unity/Library/
+Juego_Movil_Unity/Temp/
+Juego_Movil_Unity/Obj/
+Juego_Movil_Unity/Logs/
+Juego_Movil_Unity/Build/
+Juego_Movil_Unity/Builds/
+Juego_Movil_Unity/UserSettings/
+Juego_Movil_Unity/MemoryCaptures/
+
+# Archivos generados por Visual Studio
+Juego_Movil_Unity/.vs/
+Juego_Movil_Unity/*.csproj
+Juego_Movil_Unity/*.sln
